@@ -5,10 +5,16 @@ This project consists of data cleaning and exploratory data analysis using pytho
 
 Dataset link : https://www.kaggle.com/datasnaek/youtube-new
 
+Libraries used :
+  1.Pandas
+  2.Numpy
+  3.seaborn
+  4.matplotlib
+
 Cleaning : 
   1. Corrected datatypes for various attributes.
-  2. Check for missing values
-  3. Fixing date and time formats
+  2. Checked for missing values
+  3. Fixed date and time formats
 
 EDA:
   1. Ratio of likes and dislikes between various categories of videos.
