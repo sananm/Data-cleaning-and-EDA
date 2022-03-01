@@ -1,7 +1,9 @@
 # Data-cleaning-and-EDA
 
 
-This project consists of cleaning data and exploratory data analysis on a dataset containing data about youtube videos from various countries.
+This project consists of data cleaning and exploratory data analysis using python on a dataset containing data about youtube videos from various countries.
+
+Dataset link : https://www.kaggle.com/datasnaek/youtube-new
 
 Cleaning : 
   1. Corrected datatypes for various attributes.
@@ -19,4 +21,4 @@ EDA:
   8. Correlation between likes,dislikes,views and comments.
 
 
-Dataset link : https://www.kaggle.com/datasnaek/youtube-new
+
